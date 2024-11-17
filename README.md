@@ -5,7 +5,7 @@ Antonin Mercier : Developpeur
 Antoine LETAILLEUR : Developpeur  
 Thomas Foucart : Developpeur  
 Manon Destalminil : Graphiste / Animatrice  
-Marie Walter : Graphiste / Animatrice  
+Marie Welter : Graphiste / Animatrice  
   
 ## Lancer le jeu depuis un navigateur  
   
