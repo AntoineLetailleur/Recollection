@@ -12,6 +12,6 @@ Marie Welter : Graphiste / Animatrice
 https://recollection-3a638.web.app/  
 https://recollection-3a638.firebaseapp.com/  
   
-### Télécharger le jeu localement  
+### Télécharger le jeu localement (conseillé)  
   
 https://groovymobb.itch.io/recollection   
