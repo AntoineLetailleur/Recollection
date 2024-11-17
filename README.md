@@ -9,7 +9,8 @@ Marie Walter : Graphiste / Animatrice
   
 ## Lancer le jeu depuis un navigateur  
   
-https://antoineletailleur.github.io/Recollection/  
+https://recollection-3a638.web.app/  
+https://recollection-3a638.firebaseapp.com/  
   
 ### Télécharger le jeu localement  
   
