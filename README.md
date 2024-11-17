@@ -1,4 +1,4 @@
-## Recollection
+# Recollection
   
 Abdoulaye Ba : Developpeur / Chef de projet  
 Antonin Mercier : Developpeur  
